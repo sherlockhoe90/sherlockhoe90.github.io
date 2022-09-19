@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS/PhD Student @ University of Texas at Austin
+subtitle: 
 
 profile:
   align: right
