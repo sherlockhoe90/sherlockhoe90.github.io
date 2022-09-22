@@ -10,7 +10,7 @@ email: alice.zhang(at)austin.utexas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Alice Zhang's personal website.
 footer_text:   
-keywords:   # add your own keywords or leave empty
+keywords: Alice Zhang, University of Texas at Austin, Georgia Tech, Acoustic sensing, audio signal processing # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💡  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
