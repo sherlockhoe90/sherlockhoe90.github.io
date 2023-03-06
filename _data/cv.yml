@@ -52,8 +52,8 @@
       year: 2022-2023
 
 - title: Positions of Responsibilities
- type: time_table
- contents:
+  type: time_table
+  contents:
     - title: Cadet Warrant Officer
       institution: National Cadet Corps (NCC)
       year: 2019-2022
