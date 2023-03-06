@@ -11,15 +11,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: MS/PhD in Electrical and Computer Engineering
-      institution: University of Texas at Austin
-      year: 2022 - present
+    - title: B.Engg. in Information & Communication Technology
+      institution: L.J. Institute of Engineering and Technology, GTU
+      year: 2018 - 2022
       description:
-        - Human Signals Lab | Supervisor - Dr. Edison Thomaz
-        - Cockrell School of Engineering Fellowship recipient
-        - title: Research Interests
-          contents:
-            - Acoustic sensing, audio signal processing, human activity recognition
+          - Discrete Mathematics
+          - Linear Algebra
+          - Object-Oriented Programming (OOPS) with Java
+          - Data Structures and Algorithms
+          - Database Management Systems
+          - Operating Systems
+          - Software Engineering, etc.
+    - title: Higher Secondary School
+      institution: Gujarat State Board
+      year: 2016-2018
+      description:
         #    - Sub-description 2.
     - title: Bachelors in Electrical Engineering
       institution: Georgia Institute of Technology
@@ -31,34 +37,51 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Engineering Scientist Associate
-      institution: Applied Research Laboratories | University of Texas at Austin
-      year: 2020 - 2022
-    - title: Design Engineer Intern
-      institution: Garmin
-      year: 2019
+    - title: Summer Intern
+      institution: Axisray
+      year: 2022
+    - title: Java Trainee
+      institution: StackCodie Pvt Ltd
+      year: 2022
       description:
         #- Description 1.
-    - title: Hardware Intern
-      institution: Northrop Grumman
-      year: 2018
+    - title: Cyber Security Intern
+      institution: Hackersdaddy
+      year: 2020
+    - title: Press-Media Relations
+      institution: Pramukh Swami Maharaj Shatabdi Mahotsav, BAPS
+      year: 2022-2023
+
+- title: Positions of Responsibilities
+ type: time_table
+ contents:
+    - title: Cadet Warrant Officer
+      institution: National Cadet Corps (NCC)
+      year: 2019-2022
+      description:
+       - Awarded the rank of Cadet Warrant Officer at NCC
+    - title: Core Organizing Member
+      institution: Annual Arduino Workshop at LJIET
+      year: 2019
+      description:
+       - Core Member for organizing the Annual Arduino Workshop.
 
 #- title: Honors and Awards
 #  type: time_table
 #  contents:
 #    - year: 1921
-#      items: 
-#        - Nobel Prize in Physics 
+#      items:
+#        - Nobel Prize in Physics
 #        - Matteucci Medal
 #    - year: 2029
-#      items: 
+#      items:
 #        - Max Planck Medal
 #
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
 #    - title: Topic 1.
-#      items: 
+#      items:
 #        - Description 1.
 #        - Description 2.
 #    - title: Topic 2.
