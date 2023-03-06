@@ -7,7 +7,7 @@ subtitle: "Hello Internet, welcome to my place!"
 profile:
   align: right
   image: prof_pic2.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: "This is me! :)"
 
 news: false  # includes a list of news items
