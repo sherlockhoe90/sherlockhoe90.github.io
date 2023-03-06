@@ -7,7 +7,6 @@
 #      value: 14th March 1879
 #    - name: Languages
 #      value: English, German
-
 - title: Education
   type: time_table
   contents:
