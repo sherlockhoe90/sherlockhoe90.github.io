@@ -19,4 +19,4 @@ I am a B.Engg. Computer Science graduate from [L.J. Institute of Engineering & T
 
 I have managed to gain industrial experiences in short stints over the years. Among many organizations, I have received training as a Java Trainee at [StackCodie Pvt Ltd](https://www.stackcodie.com/), as a Summer Intern at [Axiray Pvt Ltd](http://axisray.in), and as a Cyber Security Intern at Hackersdaddy Inc.
 
-I have held positions of responsibilities at the [Nation Cadet Corps](https://indiancc.nic.in/) as a Cadet Warrant Officer, at Akshar Advertising Pvt Ltd as one of the key members of the firm's management, at [LJIET](https://www.ljku.edu.in/) as a member of the Core Committee for the annual Arduino Workshop.
+I have held positions of responsibilities at the [Nation Cadet Corps](https://indiancc.nic.in/) as a Cadet Warrant Officer, at Akshar Advertising Pvt Ltd as one of the key members of the firm's management, and at [LJIET](https://www.ljku.edu.in/) as a member of the Core Committee for the annual Arduino Workshop.
