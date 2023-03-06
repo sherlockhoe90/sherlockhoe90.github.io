@@ -26,10 +26,10 @@
       year: 2016-2018
       description:
         #    - Sub-description 2.
-    - title: Bachelors in Electrical Engineering
-      institution: Georgia Institute of Technology
-      year: 2016-2020
-      description:
+    # - title: Bachelors in Electrical Engineering
+    #   institution: Georgia Institute of Technology
+    #   year: 2016-2020
+    #   description:
       # - Description 1.
 
 
@@ -82,7 +82,7 @@
 #    - title: Topic 1.
 #      items:
 #        - Description 1.
-#        - Description 2. 
+#        - Description 2.
 #    - title: Topic 2.
 #      items:
 #        - Description 1.
