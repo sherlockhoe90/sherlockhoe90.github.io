@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a B.Engg. Computer Science graduate from [L.J. Institute of Engineering & Technology](https://www.ljku.edu.in/), a part of the [Gujarat Technological University](https://www.gtu.ac.in/). Having completed my graduation in July 2022 with a major in Information & Communication Technology, I am actively looking for full-time work opportunities. I am skilled predominantly in the Java domain, including but not limited to Core Java, JSP, JSTL, JDBC, MVC, Hibernate, Spring, HTML, C, and more.
+I am a B.Engg. Computer Science graduate from [L.J. Institute of Engineering & Technology](https://www.ljku.edu.in/), a part of the [Gujarat Technological University](https://www.gtu.ac.in/). Having completed my graduation in July 2022 with a major in Information & Communication Technology, I am actively looking for full-time work opportunities. I am skilled predominantly in the Java domain, including but not limited to Core Java, JSP, JSTL, JDBC, MVC, Hibernate, Spring, HTML, CSS, C, and more.
 
 I have managed to gain industrial experiences in short stints over the years. Among many organizations, I have received training as a Java Trainee at [StackCodie Pvt Ltd](https://www.stackcodie.com/), as a Summer Intern at [Axiray Pvt Ltd](http://axisray.in), and as a Cyber Security Intern at Hackersdaddy Inc.
 
