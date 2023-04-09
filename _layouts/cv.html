@@ -5,54 +5,11 @@ layout: default
         <div class="post">
 
           <header class="post-header">
-            <div class="float-right" style="display:flex;align-items: center;gap:5px;">
-              <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
-              <p style="font-size:10px" ><!-- THIS IS JUST A TRIAL -->click me!</p>
-            </div>
-            </div>
-            <p class="post-description">{{ page.description }}</p>
-          </header>
-<!-- right now its ideal lol -->
-          <article>
-            <div class="cv">
-              {% for entry in site.data.cv %}
-                <div class="card mt-3 p-3">
-                  <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-                  <div>
-                  {% if entry.type == "list" %}
-                    {% include cv/list.html %}
-                  {% elsif entry.type == "map" %}
-                    {% include cv/map.html %}
-                  {% elsif entry.type == "nested_list" %}
-                    {% include cv/nested_list.html %}
-                  {% elsif entry.type == "time_table" %}
-                   {% include cv/time_table.html %}
-                  {% else %}
-                    {{ entry.contents }}
-                  {% endif %}
-                  </div>
-                </div>
-              {% endfor %}
-              </div>
-          </article>
-
-        </div>
-
-<!--
-WRITING THIS WHOLE CODE OUT HERE BELOW JUST IN CASE THINGS GO WRONG
-
----
-layout: default
----
- _layouts/cv.html  (THIS LINE WAS COMMENTED)
-        <div class="post">
-
-          <header class="post-header">
             <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
-            <p style="font-size:10px" class="float-right">( THIS IS JUST A TRIAL ----THIS TRIAL LINE WAS COMMENTED)click me!</p>
+            <p style="font-size:10px" class="float-right"><!-- THIS IS JUST A TRIAL -->click me!</p>
             <p class="post-description">{{ page.description }}</p>
           </header>
-right now its ideal lol
+
           <article>
             <div class="cv">
               {% for entry in site.data.cv %}
@@ -77,5 +34,3 @@ right now its ideal lol
           </article>
 
         </div>
-
--->
