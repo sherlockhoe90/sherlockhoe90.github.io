@@ -11,7 +11,7 @@
   type: time_table
   contents:
     - title: B.Engg. in Information & Communication Technology
-      institution: L.J. Institute of Engineering and Technology, GTU
+      institution: Gujarat Technological University
       year: 2018 - 2022
       description:
           - Discrete Mathematics
@@ -20,7 +20,9 @@
           - Data Structures and Algorithms
           - Database Management Systems
           - Operating Systems
-          - Software Engineering, etc.
+          - Vector Calculus, Linear Algebra, Calculus, Statistics.
+          - Activities- NCC Air Wing Cadet, Running, Football team
+          - Grade- A
     - title: Higher Secondary School
       institution: Gujarat State Board
       year: 2016-2018
@@ -36,6 +38,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Associate Consultant - Java
+      institution: Inexture Solutions Ltd.
+      year: Mar '23 - Present
+      description: Serving Notice Period (Negotiable)
     - title: Summer Intern
       institution: Axisray
       year: 2022
