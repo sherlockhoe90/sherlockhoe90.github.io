@@ -13,7 +13,7 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-#    gem 'mini_racer' commented this, install NodeJS insteas (v18.20.4 worked for now)
+    gem 'mini_racer' # if it doesn't work, comment it and install NodeJS instead (v18.20.4 had worked for now)
     gem 'unicode_utils'
     gem 'webrick'
 end
