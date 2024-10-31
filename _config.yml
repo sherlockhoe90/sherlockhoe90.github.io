@@ -7,13 +7,12 @@ first_name: Nehansh
 middle_name:
 last_name: Dave
 email: nehanshdave7@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Nehansh Dave's personal website.
+description: Nehansh Dave, a skilled Java Developer and aspiring researcher, shares his insights and professional journey on this personal website. > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: Nehansh Dave, Nehansh, Dave, GTU, LJ Institute of Engineering and Technology, Gujarat Technological University, Java, Java Developer, Spring, Software Developer, Software Engineer, Research # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 💡  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  #💡 the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sherlockhoe90.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
